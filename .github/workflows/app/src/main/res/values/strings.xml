@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Breadfast</string>
+    <!-- لينك صفحة المناديب والبيكرز (لينك الداشبورد + ?me=login) -->
+    <string name="page_url">https://script.google.com/macros/s/AKfycbzlAEuRmGrMdhj1PxHzBRPqGodIU_8kxiu0Xt-vAe0fhfJtYqjGqYbj91qRTalDFTi3ow/exec?me=login</string>
+    <string name="channel_name">الشكاوى</string>
+    <string name="offline">مفيش إنترنت. اتأكد من النت وافتح التطبيق تاني.</string>
+</resources>
